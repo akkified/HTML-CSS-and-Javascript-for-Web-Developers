@@ -7,10 +7,12 @@ This README file contains some of the **work** I have done in Coursera.
 # Assignments :
 
 * Module-1 - Quiz 
-* Module-2 - Coding
-* Module-3 - Coding
-* Module-4 - Coding
-* Module-5 - Coding
+* Module-2 - Coding Activity
+* Module-3 - Coding Activity
+* Module-4 - Coding Activity
+* Module-5 - Coding Activity
+
+*Unfortunately, I don't have a subscription, so I cannot show some of the things...
 
 
 # Outputs :
