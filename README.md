@@ -14,7 +14,6 @@ This README file contains some of the **work** I have done in Coursera.
 * Module-4 - Coding Activity
 * Module-5 - Coding Activity
 
-*_Unfortunately, I **don't** have a **subscription**, so I **cannot** show some of the things..._
 
 
 # Outputs :
