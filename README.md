@@ -4,7 +4,7 @@
 This README file contains some of the **work** I have done in Coursera. 
 
 
-(https://github.com/aakella1/coursera-test/blob/f12d7f005889cedcae06f409c7bf80718ce23aec/site/images/EarnestPracticalArabianoryx-max-1mb.gif)
+!(https://github.com/aakella1/coursera-test/blob/f12d7f005889cedcae06f409c7bf80718ce23aec/site/images/EarnestPracticalArabianoryx-max-1mb.gif)
 
 # Assignments :
 
