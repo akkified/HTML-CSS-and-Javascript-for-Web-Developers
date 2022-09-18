@@ -1,6 +1,6 @@
 Hi!
 
-This is my Coursera project for module 2!
+This is my Coursera project for module 3!
 
 **_Do you want to see it?_**
 
