@@ -1,7 +1,8 @@
-function orderChickenWith(sideDish) {
-sideDish = sideDish || " whatever!"
-    console.log("Chicken with" + sideDish);
-}
+var company = new Object();
+company.name = "Facebook";
+company.ceo = new Object();
+company.ceo.firstName = "Mark";
+company.ceo.favColor = "Blue";
 
-// orderChickenWith("noodles");
-orderChickenWith()
+console.log(company);
+console.log(company.name + "'s CEO's name is " + company.ceo.firstName)
