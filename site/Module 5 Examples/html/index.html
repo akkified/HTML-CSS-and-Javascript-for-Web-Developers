@@ -5,18 +5,20 @@
 
   </head>
 <body>
-  <h1 id="title">Lecture 53</h1>
+  <h1 id="title">Luvly Message</h1>
+  
+  <h2>I love you note</h2>
   
   <p>
-    Say hello to 
-    <input id="name" type="text">
-    <button onclick="sayHello();">
-      Say it!
-    </button>
+    To:
+    <input onblur="sayHello();" id="name" type="text">
+    
+    Message:
+    <input onblur="note();" id="note1" type="text">
+  
+    From:
+    <input onblur="sayBye();" id="name1" type="text">
   </p>
-
-  <h3>The replies:</h3>
-  <hr>
 
   
     <div id="content"></div>
