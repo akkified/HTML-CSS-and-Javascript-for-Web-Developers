@@ -227,6 +227,7 @@ body {
 @media (min-width: 1200px) {
     .container .jumbotron {
         background: url('') no-repeat;
+        margin-left: auto;
         height: 675px;
     }
 }
@@ -342,3 +343,4 @@ body {
     border: 2px solid #fff;
     background-color: #f6b319;
     color: #951c49;
+}
