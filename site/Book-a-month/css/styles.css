@@ -1,12 +1,12 @@
 body {
     font-size: 16px;
     color: #fff;
-    background-color: #61122f;
+    background-color: #2464b3;
     font-family: 'Oxygen', sans-serif;
   }
 
 #header-nav {
-    background-color: #f6b319;
+    background-color: #CCF381;
     border-radius: 0;
     border: 0;
 }
@@ -52,7 +52,7 @@ body {
     margin-top: 10px;
 }
 #nav-list a {
-    color: #951c49;
+    color: #2464b3;
     text-align: center;
 }
 #nav-list a:hover {
@@ -114,8 +114,8 @@ body {
 }
 
 .container .jumbotron {
-    box-shadow: 0 0 50px #3f0c1f;
-    border: 2px solid #3f0c1f;
+    box-shadow: 0 0 50px #3514d9fc;
+    border: 2px solid #3514d9fc;
 }
 
 #info-tile, #award-tile, #map-tile {
@@ -123,7 +123,7 @@ body {
     width: 100%;
     margin-bottom: 15px;
     position: relative;
-    border: 2px solid #3f0c1f;
+    border: 2px solid #3514d9fc;
     overflow: hidden;
 }
 #info-tile:hover, #award-tile:hover, #map-tile:hover {
@@ -155,7 +155,7 @@ body {
 
 .category-tile {
     position: relative;
-    border: 2px solid #3f0c1f;
+    border: 2px solid #4731d4fc;
     overflow: hidden;
     width: 200px;
     height: 200px;
@@ -228,6 +228,7 @@ body {
     .container .jumbotron {
         background: url('') no-repeat;
         margin-left: auto;
+        margin-top: 01px;
         height: 675px;
     }
 }
@@ -333,14 +334,4 @@ body {
 #collapsable-nav a span {
     font-size: 1em;
     margin-right: 5px;
-}
-
-#call-btn > a {
-    font-size: 1.5em;
-    display: block;
-    margin: 0 20px;
-    padding: 10px;
-    border: 2px solid #fff;
-    background-color: #f6b319;
-    color: #951c49;
 }
