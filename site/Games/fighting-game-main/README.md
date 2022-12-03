@@ -1,6 +1,6 @@
 Hi!
 
-This is my project for Durpy Bird!
+This is my project for Fight!
 
 **_Do you want to see it?_**
 
