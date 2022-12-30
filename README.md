@@ -1,4 +1,4 @@
-## Welcome to my Coursera Test Repository!
+## Welcome to my HTML, CSS, and Javascript for Web Developers Repository!
 
 
 This README file contains some of the **work** I have done in Coursera. 
