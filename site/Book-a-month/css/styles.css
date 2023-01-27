@@ -1,12 +1,12 @@
 body {
     font-size: 16px;
     color: #fff;
-    background-color: #2464b3;
+    background-color: #61122f;
     font-family: 'Oxygen', sans-serif;
   }
 
 #header-nav {
-    background-color: #CCF381;
+    background-color: #f6b319;
     border-radius: 0;
     border: 0;
 }
@@ -114,8 +114,8 @@ body {
 }
 
 .container .jumbotron {
-    box-shadow: 0 0 50px #3514d9fc;
-    border: 2px solid #3514d9fc;
+    box-shadow: 0 0 50px #3f0c1f;
+    border: 2px solid #3f0c1f;
 }
 
 #info-tile, #award-tile, #map-tile {
